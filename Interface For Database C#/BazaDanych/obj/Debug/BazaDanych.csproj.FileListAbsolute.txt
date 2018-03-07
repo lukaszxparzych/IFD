@@ -1,0 +1,15 @@
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\bin\Debug\seriale.mdf
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\bin\Debug\seriale_log.ldf
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe.config
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\bin\Debug\BazaDanych.pdb
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csprojResolveAssemblyReference.cache
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form1.resources
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Properties.Resources.resources
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.GenerateResource.Cache
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.exe
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.pdb
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form2.resources
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form3.resources
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form4.resources
+C:\Users\Ethril\Desktop\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form5.resources
